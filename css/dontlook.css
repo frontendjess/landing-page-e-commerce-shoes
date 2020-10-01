@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+header {
+  position: relative;
+}
+
+.nav__logo {
+  width: 15%;
+  border: solid 1px red;
+  display: inline-block;
+}
+
+.nav__logo--image {
+  width: 100%;
+}
+
+.menu {
+  width: 80%;
+  border: solid 2px green;
+  display: inline-block;
+  text-align: right;
+  padding: 22px;
+  position: absolute;
+  top: 0px;
+}
+
+ul,
+li {
+  display: inline-block;
+  padding: 10px;
+}
