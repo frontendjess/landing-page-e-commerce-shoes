@@ -129,7 +129,11 @@ main {
 }
 
 .content__right--circles--images img {
-  width: 70%;
+  width: 100%;
+}
+
+.image-div {
+  padding: 5% 50%;
 }
 
 .content__right--shoes-images {
