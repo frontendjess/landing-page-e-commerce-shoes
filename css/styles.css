@@ -128,22 +128,32 @@ main {
   border: solid 1px green;
 }
 
-.content__right--circles--images img {
+.content__right--images img {
   width: 100%;
 }
 
-.image-div {
-  padding: 5% 50%;
+.content__right--images--pink-shoes {
+  padding: 5% 10%;
 }
 
-.content__right--shoes-images {
+.content__right--images--circles {
+  padding: 5% 15%;
+}
+
+.content__right--images--shoes-bottom-pink {
+  padding: 0 25%;
   display: inline-block;
+  position: relative;
 }
 
-.content__right--shoes--images--pink {
-  width: 25%; /* this is not resizing, why? */
+.content__right__pink-text {
+  display: inline-block;
+  position: absolute;
+  left: 45%;
+  padding: 5% 5%;
 }
 
-.content__right--shoes--images--blue-yellow {
-  width: 25%; /* this is not resizing, why? */
+.content__right--images--shoes-bottom-blue-yellow {
+  padding: 0 30%;
+  display: inline-block;
 }
