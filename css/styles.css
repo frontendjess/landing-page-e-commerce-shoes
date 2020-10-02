@@ -128,6 +128,18 @@ main {
   border: solid 1px green;
 }
 
-.content__right--images img {
+.content__right--circles--images img {
   width: 70%;
+}
+
+.content__right--shoes-images {
+  display: inline-block;
+}
+
+.content__right--shoes--images--pink {
+  width: 25%; /* this is not resizing, why? */
+}
+
+.content__right--shoes--images--blue-yellow {
+  width: 25%; /* this is not resizing, why? */
 }
