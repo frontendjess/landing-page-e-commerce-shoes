@@ -7,6 +7,7 @@
 }
 
 body {
+  min-height: ;
 }
 
 /* fonts for links and lists */
@@ -144,6 +145,7 @@ main {
   padding: 0 25%;
   display: inline-block;
   position: relative;
+  margin-right: 0 auto;
 }
 
 .content__right__pink-text {
@@ -154,6 +156,7 @@ main {
 }
 
 .content__right--images--shoes-bottom-blue-yellow {
-  padding: 0 30%;
+  padding: 0 35%;
   display: inline-block;
+  margin-left: 0 auto;
 }
