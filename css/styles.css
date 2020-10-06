@@ -162,3 +162,7 @@ main {
   text-align: left;
   margin-left: 0 auto;
 }
+
+.fa-address-book {
+  font-size: 3rem;
+}
